@@ -23,11 +23,16 @@ Top three shopping malls by sales revenue:
 Mall of Istanbul: $50,872,481.68
 Metrocity: $37,302,787.33
 Gender-wise sales: Females dominated 'Clothing' and 'Cosmetics' categories.
-Payment preferences by age group:
+# Payment preferences by age group:
+
 Age group 26-50: Cash > Credit Card > Debit Card
+
 Age group 51-75: Cash > Credit Card > Debit Card
+
 Age group 0-25: Cash > Credit Card > Debit Card
+
 Other age group: Cash > Credit Card > Debit Card
+
 In summary, the data indicates a strong preference for 'Clothing' among shoppers and a consistent use of Cash as the preferred payment method across different age groups.
 
 Feel free to explore the SQL queries and analysis results for deeper insights into sales and customer behavior!
